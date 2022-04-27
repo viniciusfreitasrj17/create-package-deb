@@ -1,0 +1,9 @@
+Package: joe-4.6
+Version: 4.6
+Architecture: all
+Maintainer: Marcos Freitas <viniciusfreitasrj17@gmail.com>
+Installed-size: 1900
+Dependens: xterm
+Section: 
+Priority: optional
+Description: Text editor CLI

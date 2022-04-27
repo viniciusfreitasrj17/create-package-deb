@@ -1,0 +1,9 @@
+Package: torbrowser
+Version: 11.0.10
+Architecture: amd64
+Maintainer: Marcos Freitas <viniciusfreitasrj17@gmail.com>
+Installed-size: 245000
+Dependens: firefox
+Section: Network
+Priority: optional
+Description: Tor Browser Privacy and Security

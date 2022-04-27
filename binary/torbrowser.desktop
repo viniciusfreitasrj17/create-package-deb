@@ -1,0 +1,10 @@
+    [Desktop Entry]
+    Version=1.0
+    Name=Tor Browser Setup
+    Comment=Tor Browser is +1 for privacy and −1 for mass surveillance
+    Type=Application
+    Exec=sh -c '/opt/tor-browser/Browser/start-tor-browser --detach || ([ ! -x /opt/tor-browser/Browser/start-tor-browser ] && /opt/tor-browser/start-tor-browser --detach)' dummy %k
+    Icon=/usr/share/pixmaps/torbrowser.png
+    Categories=Network;WebBrowser;Security;
+    Path=
+    Terminal=false
